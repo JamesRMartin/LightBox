@@ -1,4 +1,4 @@
-function initialiaze() {
+function initialize() {
     $('#dreamBig').spectrum({
         flat: true,
         clickoutFiresChange: true,
